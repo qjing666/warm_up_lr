@@ -57,7 +57,7 @@ python xxx.py
 
 - data provider share data
 
--...
+- ...
 
 #### Training Phase
 

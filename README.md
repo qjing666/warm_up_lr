@@ -55,7 +55,14 @@ python xxx.py
 
 #### Data Prepare
 
+- data provider share data
+-...
+
 #### Training Phase
+
+- privacy comutation
+
+- ....
 
 ## Benchmark Task
 put result here as a table?
